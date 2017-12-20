@@ -3,6 +3,9 @@ def display_board
   puts 'Welcome to Tic Tac Toe'
   puts "   "+ "|" + "   " + "|" + "   "
   puts '-' * 11
+  puts "   "+ "|" + "   " + "|" + "   "
+  puts '-' * 11
+  puts "   "+ "|" + "   " + "|" + "   "
 end
 
 display_board
