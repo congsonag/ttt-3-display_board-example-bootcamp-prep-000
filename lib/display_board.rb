@@ -4,5 +4,5 @@ def display_board
   puts '-' * 11
   puts "   "+ "|" + "   " + "|" + "   "
   puts '-' * 11
-  print "   "+ "|" + "   " + "|" + "   "
+  puts "   "+ "|" + "   " + "|" + "   "
 end
