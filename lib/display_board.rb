@@ -2,3 +2,5 @@
 def display_board
   print board
 end
+
+display_board
