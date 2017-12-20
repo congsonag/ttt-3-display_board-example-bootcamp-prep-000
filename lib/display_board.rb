@@ -7,5 +7,3 @@ def display_board
   puts '-' * 11
   puts "   "+ "|" + "   " + "|" + "   "
 end
-
-display_board
